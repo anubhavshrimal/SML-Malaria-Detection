@@ -1,0 +1,12 @@
+
+cell-images-for-detecting-malaria\.zip
+
+\.ipynb_checkpoints/
+
+\.DS_Store
+
+cell_images/Uninfected/
+
+cell_images/Parasitized/
+
+models/
