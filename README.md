@@ -7,6 +7,7 @@ This project is done as a part of `Statistical Machine Learning` Course.
 In this project our aim is to identify whether a cell is malaria infected or not. We show an in breadth & depth analysis of various features like **HOG, LBP, SIFT, SURF, pixel values** with feature reduction techniques **PCA, LDA** along with normalization techniques such as **z-score** and **min-max** over different classifiers such as **Naive Bayes, SVM XGBoost, Bagging, AdaBoost, K-Nearest Neighbors, Random Forests** and compare their performance by tuning different hyperparameters. We evaluate the performance of these classifiers on metrics such as **Accuracy, Precision, Recall, F1 score and ROC**.
 
 Project Poster can be found in [MT18020_MT18033_SML-Poster-Final.pdf](MT18020_MT18033_SML-Poster-Final.pdf).
+
 Project Report can be found in [SML_Project_EndTerm_Report.pdf](SML_Project_EndTerm_Report.pdf).
 
 ## Dataset
