@@ -8,14 +8,14 @@ In this project our aim is to identify whether a cell is malaria infected or not
 
 ## Dataset
 
-<div style="text-align:center"><img src="plots/dataset_vis.png" height='150px'/></div>
+<div align="center"><img src="plots/dataset_vis.png" height='150px'/></div>
 
 The dataset consists of 27,558 cell images; 13,780 images of infected and uninfected cells each and is taken from the official [NIH Website](https://ceb.nlm.nih.gov/repositories/malaria-datasets/).
 You may also download it from [kaggle](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria).
 
 ## Algorithm Used
 
-<div style="text-align:center"><img src="plots/training_pipeline.png" /></div>
+<div align="center"><img src="plots/training_pipeline.png" /></div>
 
 - Different combinations of feature sets were used, some of which are shown in Table 1 & 2 (**Ugly Duckling Theorem**) many other combinations were tried.
 - Evaluated with different classifiers, model parameters were varied using **Grid Search** to find the best parameters (**No Free Lunch Theorem**).
@@ -26,8 +26,8 @@ You may also download it from [kaggle](https://www.kaggle.com/iarunava/cell-imag
 Follwing are the results of the project:
 
                                             Fig 1. Feature Visualization
-   <div style="text-align:center"><img src="plots/feature_visualization.jpg" height='450px'/></div>                                         
+   <div align="center"><img src="plots/feature_visualization.jpg" height='450px'/></div>                                         
 
                                 Fig 1. Comparison between Min-Max and Z-score normalization
-   <div style="text-align:center"><img src="plots/normalization_comparison.png" height='250px'/></div>
+   <div align="center"><img src="plots/normalization_comparison.png" height='250px'/></div>
                                             
