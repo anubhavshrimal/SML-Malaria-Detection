@@ -6,6 +6,9 @@ This project is done as a part of `Statistical Machine Learning` Course.
 
 In this project our aim is to identify whether a cell is malaria infected or not. We show an in breadth & depth analysis of various features like **HOG, LBP, SIFT, SURF, pixel values** with feature reduction techniques **PCA, LDA** along with normalization techniques such as **z-score** and **min-max** over different classifiers such as **Naive Bayes, SVM XGBoost, Bagging, AdaBoost, K-Nearest Neighbors, Random Forests** and compare their performance by tuning different hyperparameters. We evaluate the performance of these classifiers on metrics such as **Accuracy, Precision, Recall, F1 score and ROC**.
 
+Project Poster can be found in [MT18020_MT18033_SML-Poster-Final.pdf](MT18020_MT18033_SML-Poster-Final.pdf).
+Project Report can be found in [SML_Project_EndTerm_Report.pdf](SML_Project_EndTerm_Report.pdf).
+
 ## Dataset
 
 <div align="center"><img src="plots/dataset_vis.png" height='150px'/></div>
@@ -71,3 +74,8 @@ differentiate well.
 3. Poostchi, Mahdieh & Silamut, Kamolrat & Maude, Richard & Jaeger, Stefan & Thoma, George. (2018). Image analysis and machine learning for detecting malaria. Translational Research. 194.10.1016/j.trsl.2017.12.004.
 4. Das, D.K., Ghosh, M., Pal, M., Maiti, A.K., & Chakraborty, C. (2013). Machine learning approach for automated screening of malaria parasite using light microscopic images. Micron, 45, 97-106.
 5. Gloria Daz, Fabio A. Gonzlez, and Eduardo Romero. 2009. A semi-automatic method for quantification and classification of ery- throcytes infected with malaria parasites in microscopic images. J. of Biomedical Informatics 42, 2 (April 2009), 296-307.
+
+## Project Team Members
+
+1. Anubhav Shrimal
+2. Vrutti Patel
